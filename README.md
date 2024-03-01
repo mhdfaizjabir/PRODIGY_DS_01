@@ -28,5 +28,5 @@ To use this code, follow these steps:
 2. Download the dataset from the provided link and place it in the same directory as the code file.
 3. Run the code in your preferred Python environment (e.g., Jupyter Notebook, Python IDE).
 
-##Contributing
+## Contributing
 If you would like to contribute to this project or have any suggestions for improvements, feel free to create a pull request or open an issue.
